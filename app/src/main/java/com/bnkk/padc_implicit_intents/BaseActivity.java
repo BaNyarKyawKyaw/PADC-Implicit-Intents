@@ -1,0 +1,6 @@
+package com.bnkk.padc_implicit_intents;
+
+import android.support.v7.app.AppCompatActivity;
+
+public class BaseActivity extends AppCompatActivity {
+}
