@@ -15,7 +15,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity {
 
     private static final int PERMISSION_REQUEST_PHONE_CALL = 100;
     private static final int PERMISSION_REQUEST_CAMERA = 101;
